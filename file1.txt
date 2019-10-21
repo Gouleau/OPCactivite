@@ -1,0 +1,4 @@
+fichier file1.txt version1
+creer son repo : mkdir nomrepo
+initialiser le repo : git init
+ajouter un fichier specifique : git add nomfichier
